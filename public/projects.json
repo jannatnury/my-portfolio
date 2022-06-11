@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1001,
+        "title": "Scentholics",
+        "type": "Manufecturer Website",
+        "img": "https://i.ibb.co/CK2nfHt/scentholics.png",
+        "description": "It is a manufacturer website.I made this with React, Bootstrap, NodeJs, MongoDB etc.This website has login and logout system. Google signin system. I created user account system here.There is also a private route in this website."
+    },
+    {
+        "id": 1002,
+        "title": "Voilet",
+        "type": "Independent Provider website",
+        "img": "https://i.ibb.co/56qxpP4/violet.png",
+        "description": "It is an independent service provider website.I made this with React, Bootstrap, NodeJs, MongoDB etc.This website has login and logout system. Google signin system. Explore more with me."
+    },
+    {
+        "id": 1003,
+        "title": "Car Doctor",
+        "type": "Car Patrs Manufecturer Website",
+        "img": "https://i.ibb.co/g3z299s/car.png",
+        "description": "It is a manufacturer website.I made this with React, Bootstrap, NodeJs, MongoDB etc.This website has login and logout system. Google signin system. I created user account system here.There is also a private route in this website. Explore more with me."
+    }
+]
